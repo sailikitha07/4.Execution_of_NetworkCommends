@@ -65,11 +65,14 @@ while True:
 ## Output
 PING command:
 
-![Screenshot 2025-04-17 141323](https://github.com/user-attachments/assets/0c4ff9f0-9592-44b7-8e38-db7744c079a7)
+![Screenshot 2025-05-11 175553](https://github.com/user-attachments/assets/1283aa15-6da8-4162-9201-276948d2f23c)
+
 
 TRACEROUTE command:
-![image](https://github.com/user-attachments/assets/0743fcd9-19f3-4ef8-b31d-0bdd8dc96c5c)
+![Screenshot 2025-05-11 175605](https://github.com/user-attachments/assets/61e946d5-dc8e-4c10-93ba-008e790e325a)
+
 
 
 ## Result
 Thus Execution of Network commands Performed 
+
